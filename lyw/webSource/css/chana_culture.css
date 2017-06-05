@@ -1,0 +1,111 @@
+
+/*cul_dep*/
+.cul_dep{width: 1150px;
+       height:auto;
+       border:1px solid #000;
+       float: left;
+       margin:20px 0 0 0; }
+.cul_dep p{font-size: 20px;
+        color:#555555;
+        text-align: center;}       
+.section{
+	width: 1150px;
+	height: 300px;
+	border-bottom: 1px solid gainsboro;
+	color: #666666;
+}
+.section h4{color: #149BDF;
+       margin:15px 0 0 30px;}
+       
+/*famous_teachers*/
+.famous_teachers{
+	width: 280px;
+	height: 450px;
+	border:1px solid #000;
+	float: left;
+    margin-top: 20px;
+    border-radius: 5px;	
+}
+.title{width: 280px;
+       height: 40px;
+       background:#555555;
+       float:left;
+       margin:0 0 10px 0;}
+.title p{
+	text-align: center;
+	font-size: 18px;
+	color: #F0F0F0;
+}       
+.t_pic{
+	width: 260px;
+    height:115px;
+    border:1px solid #000;
+    font-size: 14px;
+    font-family: "微软雅黑";
+    color: #525252;
+    margin:5px 0 5px 8px;
+    float: left; }
+.t_pic img{float: left;
+	width: 100px;
+	height: 115px;
+	 border:1px solid #000;	
+}    
+ .famous_teachers a,.t_pic a{float: left;
+       color: #3D3D3D;
+       text-decoration: none;} 
+.famous_teachers a:hover,.t_pic a:hover{color: #00AEEF;}          
+    
+/*chana_prodution*/
+.chana_prodution{width: 850px;
+    height:450px ;
+    border:1px solid #000;
+    margin: 20px 0 0 15px;
+    float: left;}
+ .chana_prodution p{
+	text-align: center;
+	font-size: 18px;
+	color: #555555;
+}      
+.video{width:350px;
+     height: 160px;
+     border:1px solid #000 ;
+     float: left;
+     margin: 15px 0 0 50px;}
+
+
+/* works_display */     
+ .works_display {
+ 	width: 1150px;
+ 	height: auto;
+ 	border:1px solid #000  ;
+ 	float: left;
+ 	margin-top:20px;
+ 	
+ }
+ .works_display  p{
+	text-align: center;
+	font-size: 18px;
+	color: #555555;
+} 
+.wrap{
+	width: 1150px;
+	height: auto;
+	border:1px solid #000;	
+}       
+ .works_wrap h4{
+ 	margin-left: 20px;
+ 	color: #149BDF;
+ }
+.works_img{
+	width: 1110px;
+	height: 300px;
+	border-bottom:1px solid gainsboro;	
+	margin:0 0 20px 20px ;
+} 
+.works_img img{
+	width:260px;
+	height: 260px;
+	border:1px solid #000;	
+	border-radius: 10px;
+	margin: 20px 0 20px 10px;
+}                     

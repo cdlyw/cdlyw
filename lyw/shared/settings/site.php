@@ -1,0 +1,20 @@
+<?php if ( ! defined('IN_DILICMS')) exit('No direct script access allowed');
+$setting=array (
+  'site_name' => '瓷都旅游网',
+  'site_domain' => 'http://lyw.com/',
+  'site_logo' => 'images/logo.gif',
+  'site_icp' => '',
+  'site_terms' => '',
+  'site_stats' => '',
+  'site_footer' => '',
+  'site_status' => '1',
+  'site_close_reason' => '网站维护升级中......',
+  'site_keyword' => '瓷都旅游网',
+  'site_description' => '瓷都旅游网',
+  'site_theme' => 'default',
+  'attachment_url' => NULL,
+  'attachment_dir' => 'attachments',
+  'attachment_type' => '*.jpg;*.gif;*.png;*.doc',
+  'attachment_maxupload' => '2097152',
+  'thumbs_preferences' => '[]',
+);
